@@ -11,6 +11,18 @@ body {
 	
 }
 
+/* Milton */
+main .logo {
+	background-image: url('logo.png');
+	background-repeat: no-repeat;
+	background-size: contain;
+	width: 110px;
+	height: 110px;
+	margin: 8px;
+	float: left;
+}
+/* Milton */
+
 main h1 {
 
 	text-align: center;
@@ -109,6 +121,30 @@ aside {
 	
 }
 
+.corpoFeira {
+
+	text-align: center;    
+	margin: 5px;
+	padding: 5px;
+}
+
+.corpoFeira .blocoFeira {
+	
+	display: inline-grid;
+	margin: 0px 5px;
+	width: 30%;
+	
+}
+
+.corpoFeira .blocoFeira img {
+	height: 140px;
+	border-radius: 15px;
+}
+
+.corpoFeira .blocoFeira h4 {
+	color: #1F69A5;
+}
+
 .bloco {
 
 	display: inline-block;
@@ -119,7 +155,9 @@ aside {
 
 .foto {
 
-	width: 100%;
+	border-radius: 50%;
+    width: 150px;
+    height: 150px;
 
 }
 
