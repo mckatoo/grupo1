@@ -1,0 +1,28 @@
+.corpo {
+    text-align: center;
+    
+}
+
+.bloco {
+    display: inline-block;
+    margin: 0px 5px;
+    width: 18%;
+    }
+
+.foto {
+    width: 100%;
+}
+
+.rodape-bloco {
+    font-size: 10pt;
+}
+
+a {
+    text-decoration: none;
+}
+
+b {
+    margin: 0px 5px;
+}
+
+

@@ -1,0 +1,6 @@
+comandos
+
+<img src="eu.jpg" alt="Foto João da Silva"> "Alt serve para pessoas que não enxergam, é uma norma da W3c.
+<nav></nav>mais Semântica ao site. É o que os navegadores buscam nos sites e isolar o contéudo, parecida com a <div>
+<cite> para indicar um autor de livro por exemplo
+<padding> espaçamento do texto com a borda.

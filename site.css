@@ -1,0 +1,154 @@
+/*
+Aguinaldo
+*/
+
+body {
+
+	font-family: "Crimson Text", "Times New Roman", serif;
+	background-color: #cbe0ef;
+	font-size: 120%;
+	line-height: 1.5;
+	
+}
+
+main h1 {
+
+	text-align: center;
+	background-color: #1f69a5;
+	color: #FFF;
+	padding: 25px;
+	border-bottom: 10px solid black;
+	font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-align: center;
+    font-size: 50px;
+}
+
+/*
+Aguinaldo
+*/
+
+/*
+Kaue
+*/
+
+h2 {
+
+	text-align: center;
+    font-size: 40px;
+	text-align: center;
+	background-color: #1f69a5;
+	color: #FFF;
+	padding: 5px;
+	border-bottom: 10px solid black;
+	
+}
+h3 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	text-align: left;
+
+}
+
+/*
+Kaue
+*/
+
+/*
+Thieres
+*/
+
+h4 {
+
+	font-size: 30px;
+	margin: 5px;
+	border: 10%;
+	text-align: center;
+	color: #FFF;
+	padding: 10px;
+
+}
+
+p {
+	
+	text-align: left;
+}
+
+figure {
+
+	text-align: center;
+
+}
+
+/*
+Thieres
+*/
+
+/*
+Milton
+*/
+
+ul {
+
+	text-align: left;
+	font-size: 15px;
+	margin: 10px;
+
+}
+
+aside {
+
+	background-color:#1f69a5;
+	color: #F2FFFC;	
+}
+
+
+.corpo {
+
+	text-align: center;    
+	
+}
+
+.bloco {
+
+	display: inline-block;
+    margin: 0px 5px;
+    width: 18%;
+
+}
+
+.foto {
+
+	width: 100%;
+
+}
+
+.rodape-bloco {
+
+	font-size: 10pt;
+
+}
+
+/*
+Milton
+*/
+
+/*
+Aguinaldo
+*/
+
+footer {
+
+	background-color: black;
+	color: #F2FFFC;
+	text-align: center;
+	margin: 0px;
+	padding: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+
+}
+
+/*
+Aguinaldo
+*/
